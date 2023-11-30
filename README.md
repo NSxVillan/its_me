@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NSxVillan
 - 👀 I’m interested in making such interactive project..
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on some creative project for a science student.
+- 🌱 I’m currently learning backend..
+- 💞️ I’m looking to collaborate on some creative project for a science student..
 - 📫 How to reach me by nxskumar@gmail.com..
 
 <!---
